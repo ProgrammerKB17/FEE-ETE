@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a780d975.css",
+    "main.js": "/static/js/main.4ca241e4.js",
+    "static/js/453.c0c1a03a.chunk.js": "/static/js/453.c0c1a03a.chunk.js",
+    "static/media/image1.png": "/static/media/image1.deb6a041ab8d4797106e.png",
+    "static/media/deadlift.mp4": "/static/media/deadlift.a2526043ee8743125cf8.mp4",
+    "static/media/burpees.mp4": "/static/media/burpees.912be12c0614513bf041.mp4",
+    "static/media/pause.PNG": "/static/media/pause.f96c1e731c742436dd8a.PNG",
+    "static/media/shoulder.jpg": "/static/media/shoulder.21df30affa30fab15ca0.jpg",
+    "static/media/play.PNG": "/static/media/play.7a08b204b94201b7449f.PNG",
+    "static/media/tricep.webp": "/static/media/tricep.709281379e0cf380cad1.webp",
+    "static/media/inner_chest_exercises_600x.webp": "/static/media/inner_chest_exercises_600x.a7688d92636d6b918363.webp",
+    "static/media/pumpwikiLogo.png": "/static/media/pumpwikiLogo.56a7181028d83951b3b3.png",
+    "static/media/legs.jpg": "/static/media/legs.7ff0eb3723d96963a551.jpg",
+    "static/media/back.webp": "/static/media/back.ce58a14e53211a56c3ba.webp",
+    "index.html": "/index.html",
+    "main.a780d975.css.map": "/static/css/main.a780d975.css.map",
+    "main.4ca241e4.js.map": "/static/js/main.4ca241e4.js.map",
+    "453.c0c1a03a.chunk.js.map": "/static/js/453.c0c1a03a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a780d975.css",
+    "static/js/main.4ca241e4.js"
+  ]
+}
